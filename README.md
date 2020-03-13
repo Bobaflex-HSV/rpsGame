@@ -1,2 +1,0 @@
-# rpsGame
-Created with CodeSandbox
